@@ -13,12 +13,12 @@ npm install
 Run Tailwind CLI in watch mode
 
 ```
-npm run dev
+npm run watch
 ```
 
 You can use tailwind classes in any .html files in the root directory
 
-Put any custom CSS that you may have in the **src/input.css** file
+Put any custom CSS that you may have in the **input.css** file
 
 Add any config values to the **tailwind.config.js** file
 
